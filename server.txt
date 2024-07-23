@@ -18,10 +18,8 @@ UXRXTv9-10283-B3B-10283
 UXRXTv9-10168-B3B-10168
 UXRXTv9-10274-B3B-10274
 1027412
-1085212 -> active 16 june - exp - 23
-1080111 -> active 16 june - exp - 23
-102028 -> active 16 june - exp - 23
-1014114 -> active 16 june - exp - 23
+1085212 -> active 23 june - exp - 30
+102028 -> active 23 june - exp - 30
 1075712
 1025014
 1038612
