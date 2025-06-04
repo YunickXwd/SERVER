@@ -1,1 +1,2 @@
 Admin = user_c7762cff-08fe-46b9-a879-1358657311e1
+Ban = user_11c65800-e779-49e6-8828-ff1422355a6e
